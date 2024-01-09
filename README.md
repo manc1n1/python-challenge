@@ -17,6 +17,7 @@
 -   [Contributing](#contributing)
 -   [License](#license)
 -   [Contact](#contact)
+-   [Credits](#credits)
 
 ## Installation
 
@@ -40,6 +41,8 @@
 
 ## Usage
 
+## Tests
+
 ## Contributing
 
 Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
@@ -61,6 +64,10 @@ Don't forget to give the project a star! Thanks again!
 
 -   Email mancinij1111@gmail.com
 -   GitHub [manc1n1](https://github.com/manc1n1)
+
+## Credits
+
+[Starter Code Download](https://static.bc-edx.com/data/dl-1-2/m3/lms/starter/Starter_Code.zip)
 
 [license]: https://img.shields.io/github/license/manc1n1/python-challenge.svg?style=for-the-badge
 [license-url]: https://github.com/manc1n1/python-challenge/blob/master/LICENSE
